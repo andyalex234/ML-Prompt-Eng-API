@@ -33,4 +33,6 @@ The data are job descriptions ( together named entities)  and  relationships bet
 ## API Documentation
 
 - <code>/bnewscore</code> - for scoring  breaking news that may lead to public unrest
-- <code>/jdentities</code> - for extracting entities from job description
+- <code>/jdentities</code> - for extracting entities from job 
+
+>> for detailed information about the api documentation [visit - /docs](http://127.0.0.1:8000/docs)
